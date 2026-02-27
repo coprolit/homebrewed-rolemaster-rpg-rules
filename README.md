@@ -1,2 +1,4 @@
 # homebrewed-rolemaster-rpg-rules
-A homebrewed, streamlined compilation of Rolemaster (and related systems) RPG rules.
+A homebrewed, heavily streamlined compilation of Rolemaster RPG (and related systems) rules.
+
+AP => MP (Maneuver Points)
