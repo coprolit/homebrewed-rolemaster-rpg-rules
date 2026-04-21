@@ -14,7 +14,7 @@ Action a character can attempt on his Turn.
 Action a character can attempt at any time during the Combat Round as a response to an imminent threat.
 Reactive actions always come with a disadvantage, besides losing control of situation - e.g. penalty to roll, additional MP cost, or compromised state.
 E.g. evading an attack leaves the character prone.
-E.g. counter-attacking cost additional MP (50%?) or OB penalty.
+E.g. counter-attacking cost additional MP (50%?) or OB penalty. OR critical success when parry, allows a counter-attack (at reduced OB?)
 
 ### Interupt Action
 Delayed Action stated on the characters' turn. 
