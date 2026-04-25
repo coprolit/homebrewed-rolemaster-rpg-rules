@@ -29,20 +29,26 @@ Extremely Hard maneuver, using appropriate skill, apply result to DB.
 #### Dodge
 Against Ranged attacks, halve any DB increase.
 Dodging is not possible against area attacks.
+
 Use Running or Acrobatics skill.
+
 Succesful dodge allows defender to move to flank of attacker. 
 
 #### Parry
-Against Melee attacks, halve any DB increase, if defender is parrying unarmed against someone with a weapon.
-Against Ranged attacks, defender must use a suitable shield.
+Against Melee attacks.
+Halve any DB increase, if defender is parrying unarmed against someone with a weapon.
+
 Use Weapon or Shield skill.
+
 Succesful parry allows defender a counter-attack at half OB.
 
 #### Block
 Against Melee and Ranged attacks if using a suitable shield.
-Extremely Hard maneuver, using Shield skill, apply result to DB.
+
+Use Shield skill.
+Hard Maneuver.
+
 Succesful block staggers the attacker.
-#### 
 
 ## Combat Round
 
