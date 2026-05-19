@@ -1,4 +1,4 @@
-# Rolemaster Lite hack
+# RM lite hack
 A homebrewed, heavily streamlined and simplified compilation of Rolemaster RPG (and related systems) rules.
 
 AP => MP (Maneuver Points)
