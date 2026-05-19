@@ -1,5 +1,5 @@
-# homebrewed-rolemaster-rpg-rules
-A homebrewed, heavily streamlined compilation of Rolemaster RPG (and related systems) rules.
+# Rolemaster Lite hack
+A homebrewed, heavily streamlined and simplified compilation of Rolemaster RPG (and related systems) rules.
 
 AP => MP (Maneuver Points)
 
