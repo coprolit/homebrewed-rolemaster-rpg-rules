@@ -80,6 +80,7 @@ Instead of tracking 20 different Armor Types, group them into four distinct tier
 - Light (AT 5): Flat -10 DB
 - Medium (AT 10): Flat -20 DB
 - Heavy (AT 15–20): Flat -30 DB
+
 Designer Note: Armor subtracts its value directly from damage (Phil: should subtract Critical severity instead). A 30-point hit against Medium Armor becomes a 10-point hit.
 
 #### Combat Flow:
@@ -91,5 +92,6 @@ Instead of hundreds of weapon charts, use three basic Critical Hit Tables when a
 - Slash/Edge: Causes Heavy Bleeding.
 - Puncture: Causes Organ Damage/Stuns.
 - Concussion/Crush: Causes Knockouts/Stuns.
+
 Draw an "A", "B", "C", "D", or "E" severity critical depending on the attack roll.
 _the Mythras approach where critical hits allow characters to choose which combat move(s) to apply to their attack, subsequent to the roll. So they can do extra damage, inflict a number of disadvantages on the enemy, recover from their own disadvantages, etc., according to their own perception of what is most appropriate to the situation._
