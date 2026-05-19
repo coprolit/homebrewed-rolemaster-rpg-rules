@@ -54,3 +54,38 @@ Succesful block staggers the attacker.
 
 ### Round Sequence
 Each full increment of your BMR costs one AP (25%).
+
+# Notes
+Critical tables replace generic double-damage with specific, unpredictable, narrative-driven outcomes that escalate the severity of wounds: Serious Injuries, Bleeding and Stunning.
+
+A "lite" hack for the notoriously crunchy Rolemaster involves ditching all the weapon tables and percentage-based round trackers. 
+Streamline combat by having players roll `1d100 + OB - DB`, resolving damage against a generic difficulty chart, and rolling on just 3 general Critical Tables.
+
+### The Streamlined Mechanic (d100 Resolution)
+#### One Roll Does It All:
+Instead of a complex matrix, all checks are `1d100 + OB - DB`.
+
+#### Open-Ended Rolls:
+Keep the signature open-ended rolls. Any roll of 96+ means you roll again and add it to the total. Rolls of 01–05 mean you roll again and subtract from the total.
+
+#### Combat Math:
+`1d100 + OB - DB`. If the total is greater than 100, the attacker scores a hit. The difference between the result and 100 equals the Concussion Damage dealt.
+
+#### Armor Simplified:
+Instead of tracking 20 different Armor Types, group them into four distinct tiers:
+- None (AT 1): Flat -0 DB
+- Light (AT 5): Flat -10 DB
+- Medium (AT 10): Flat -20 DB
+- Heavy (AT 15–20): Flat -30 DB
+Designer Note: Armor subtracts its value directly from damage (Phil: should subtract Critical severity instead). A 30-point hit against Medium Armor becomes a 10-point hit.
+
+#### Combat Flow:
+A "declaration phase" usually bogs Rolemaster down. Instead, simplify combat turns:
+Players declare how much of their Offensive Bonus (OB) they want to use for parrying. If a player puts \(30\) points into parrying, they add \(30\) to their Defensive Bonus (DB) but lose \(30\) from their attack roll.Roll initiative or act simultaneously.
+
+#### Criticals & Bleeding:
+Instead of hundreds of weapon charts, use three basic Critical Hit Tables when an attack causes a critical:
+- Slash/Edge: Causes Heavy Bleeding.
+- Puncture: Causes Organ Damage/Stuns.
+- Concussion/Crush: Causes Knockouts/Stuns.
+Draw an "A", "B", "C", "D", or "E" severity critical depending on the attack roll.
