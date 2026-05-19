@@ -71,6 +71,9 @@ Keep the signature open-ended rolls. Any roll of 96+ means you roll again and ad
 #### Combat Math:
 `1d100 + OB - DB`. If the total is greater than 100, the attacker scores a hit. The difference between the result and 100 equals the Concussion Damage dealt.
 
+Partial Success (76-100): Target has been knocked off balance (gets some temporary debuff, e.g. staggered, knocked back, knocked prone).
+Absolute Succes (176+): double crits
+
 #### Armor Simplified:
 Instead of tracking 20 different Armor Types, group them into four distinct tiers:
 - None (AT 1): Flat -0 DB
