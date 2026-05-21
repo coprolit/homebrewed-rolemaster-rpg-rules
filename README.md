@@ -95,3 +95,6 @@ Instead of hundreds of weapon charts, use three basic Critical Hit Tables when a
 
 Draw an "A", "B", "C", "D", or "E" severity critical depending on the attack roll.
 _the Mythras approach where critical hits allow characters to choose which combat move(s) to apply to their attack, subsequent to the roll. So they can do extra damage, inflict a number of disadvantages on the enemy, recover from their own disadvantages, etc., according to their own perception of what is most appropriate to the situation._
+
+#### On roll over vs under
+https://www.skeletoncodemachine.com/p/roll-over-under
