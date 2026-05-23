@@ -54,9 +54,6 @@ A combat round is measured as `100%` activity (5 seconds).
 
 During the round, combatants can perform actions up to `100%` activity. Each action cost an amount of `%` to represent the time required to perform that action.
 
-E.g. each full increment of your BMR costs `25%`.
-Movement can occur as its own action or simultaneously with other actions (still costs activity).
-
 Actions that require skill checks can be performed more quickly at a penalty of `-1` for each 1% less that the normal cost, down to a minimum of half the normal cost.
 
 | Attack actions | Cost |
@@ -66,9 +63,13 @@ Thrown Attack | 100%
 Melee | 100%
 Dodge/Block/Parry | 100%
 
+Movement can occur as its own action or simultaneously with other actions (costs either activity or suffer Pace Penalty to actions performed while moving).
 | Movement actions | Cost |
 |:-|-:|
-Move your BMR | 25% | 
+Walk / x1 BMR | 25% (-25)
+Jog / x2 BMR | 50% (-50)
+Run / x3 BMR | 75% (-75)
+Sprint / x4 BMR | 100%  
 Mount | 100% |
 Dismount | 50% |
 Prone <-> Stand | 25% |
