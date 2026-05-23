@@ -1,7 +1,6 @@
 # RM lite hack
 A homebrewed, heavily streamlined and simplified compilation of Rolemaster RPG (and related systems) rules.
 
-AP => MP (Maneuver Points)
 
 
 ## Combat Actions
@@ -50,10 +49,50 @@ Hard Maneuver.
 
 Succesful block staggers the attacker.
 
-## Combat Round
+## The Combat Round
+A combat round is measured as `100%` activity (5 seconds).
 
-### Round Sequence
-Each full increment of your BMR costs one AP (25%).
+During the round, combatants can perform actions up to `100%` activity. Each action cost an amount of `%` to represent the time required to perform that action.
+
+E.g. each full increment of your BMR costs `25%`.
+Movement can occur as its own action or simultaneously with other actions (still costs activity).
+
+Actions that require skill checks can be performed more quickly at a penalty of `-1` for each 1% less that the normal cost, down to a minimum of half the normal cost.
+
+| Attack actions | Cost |
+|:-|-:|
+Ranged Attack | 75%
+Thrown Attack | 100%
+Melee | 100%
+Dodge/Block/Parry | 100%
+
+| Movement actions | Cost |
+|:-|-:|
+Move your BMR | 25% | 
+Mount | 100% |
+Dismount | 50% |
+Prone <-> Stand | 25% |
+
+| Other actions | Cost |
+|:-|-:|
+Perception | 50% |
+
+| Equipment actions | Cost | _ |
+|:-|-:|:-|
+Draw weapon/ammo/item | 25% |
+Draw ammo and load | 25%
+Sheath weapon/ammo/item | 50% |
+Get item from ground | 75% |
+Drop item | 0 |
+Shift item to other hand | 25% |
+Apply first aid	| 200% |	per hit/round
+Pick Lock / Disarm Trap | 500% |
+
+Eat or drink (medicals) | 2 |
+Power supply reload	| 8 |
+Misc. Static Action	| 8+ |
+
+Orientation Maneuver | 0 | Result is a delay (penalty to initiative): Failure = can perform no actions in round, Partial success = -20, Near success = -10, Success = 0
 
 # Notes
 Critical tables replace generic double-damage with specific, unpredictable, narrative-driven outcomes that escalate the severity of wounds: Serious Injuries, Bleeding and Stunning.
