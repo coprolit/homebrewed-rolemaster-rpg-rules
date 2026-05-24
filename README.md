@@ -23,31 +23,34 @@ If unable to achieve the original declaration, the opponent’s MP is wasted.
 
 ### Defending
 A character can defend against a foe when attacked by taking cover and/or making a Reactive Action to increase their DB.
-Extremely Hard maneuver, using appropriate skill, apply result to DB.
+`Extremely Hard` maneuver, using appropriate skill, apply 100 minus result to DB.
 
 #### Dodge
 Against Ranged attacks, halve any DB increase.
 Dodging is not possible against area attacks.
 
-Use Running or Acrobatics skill.
+`Extremely Hard` maneuver (-30).
 
-Succesful dodge allows defender to move to flank of attacker. 
+Use appropiate Movement skill, e.g. `Running`, `Swimming`, `Climbing` or `Acrobatics` skill.
+
+176+ `Absolute Success`: Defender can immediately move up to 10'.
 
 #### Parry
 Against Melee attacks.
 Halve any DB increase, if defender is parrying unarmed against someone with a weapon.
 
-Use Weapon or Shield skill.
+`Extremely Hard` maneuver (-30).
+Use `Weapon` or `Shield` skill.
 
-Succesful parry allows defender a counter-attack at half OB.
+176+ `Absolute Success`: Defender can immediately perform an undefended counter-attack against the attacker.
 
 #### Block
-Against Melee and Ranged attacks if using a suitable shield.
+Against Melee and Ranged attacks if using a suitable shield or environment cover.
 
+`Hard` Maneuver (-10).
 Use Shield skill.
-Hard Maneuver.
 
-Succesful block staggers the attacker.
+176+ `Absolute Success`: Reduce Critical severity by one of any Criticals scored against defender.
 
 ## The Combat Round
 A combat round is measured as `100%` activity (5 seconds).
@@ -63,7 +66,7 @@ Thrown Attack | 100%
 Melee | 100%
 Dodge/Block/Parry | 100%
 
-Movement can occur as its own action or simultaneously with other actions (costs either activity or suffer Pace Penalty to actions performed while moving).
+Movement can occur as its own action (costs activity) or simultaneously with other actions (costs no activity, but applies Pace Penalty to actions performed while moving).
 | Movement actions | Cost | Pace Penalty |
 |:-|-:|:-|
 Walk / x1 BMR | 25% | -25
