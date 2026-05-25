@@ -55,7 +55,7 @@ Use Shield skill.
 ## The Combat Round
 A combat round is measured as `100%` activity (5 seconds).
 
-During the round, combatants can perform actions up to `100%` activity. Each action cost an amount of `%` to represent the time required to perform that action.
+During the round, combatants can perform actions up to `100%` activity. Each action cost an amount of `%` to represent the time, effort and concentration required to perform that action.
 
 Actions that require skill checks can be performed more quickly at a penalty of `-1` for each 1% less that the normal cost, down to a minimum of half the normal cost.
 
@@ -66,16 +66,16 @@ Thrown Attack | 100%
 Melee | 100%
 Dodge/Block/Parry | 100%
 
-Movement can occur as its own action (costs activity) or simultaneously with other actions (costs no activity, but applies Pace Penalty to actions performed while moving).
+Movement is unique as it can be combined with other actions. Movement as its own action costs activity as normal. When moving while taking other actions, ignore the activity cost for the movement, but apply a Pace Penalty to the action.
 | Movement actions | Cost | Pace Penalty |
 |:-|-:|:-|
 Walk / x1 BMR | 25% | -25
 Jog / x2 BMR | 50% | -50
 Run / x3 BMR | 75% | -75
 Sprint / x4 BMR | 100% | -
-Mount | 100% | - 
-Dismount | 50% | -
-Prone <-> Stand | 25% | -
+Mount | 100% | -
+Dismount | 50% | -50
+Prone <-> Stand | 25% | -25
 
 | Other actions | Cost |
 |:-|-:|
