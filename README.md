@@ -67,15 +67,15 @@ Melee | 100%
 Dodge/Block/Parry | 100%
 
 Movement is unique as it can be combined with other actions. Movement as its own action costs activity as normal. When moving while taking other actions, ignore the activity cost for the movement, but apply a Pace Penalty to the action.
-| Movement actions | Cost | Pace Penalty |
-|:-|-:|:-|
-Walk / x1 BMR | 25% | -25
-Jog / x2 BMR | 50% | -50
-Run / x3 BMR | 75% | -75
-Sprint / x4 BMR | 100% | -
-Mount | 100% | -
-Dismount | 50% | -50
-Prone <-> Stand | 25% | -25
+| Movement actions | Cost
+|:-|-:|
+Walk / x1 BMR | 25%
+Jog / x2 BMR | 50%
+Run / x3 BMR | 75%
+Sprint / x4 BMR | 100%
+Mount | 100%
+Dismount | 50%
+Prone <-> Stand | 25%
 
 | Other actions | Cost |
 |:-|-:|
