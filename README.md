@@ -42,7 +42,7 @@ Halve any DB increase, if defender is parrying unarmed against someone with a we
 `Extremely Hard` maneuver (-30).
 Use `Weapon` or `Shield` skill.
 
-176+ `Absolute Success`: Defender can immediately perform an undefended counter-attack against the attacker.
+176+ `Absolute Success`: Defender can immediately perform a counter-attack against the attacker. That attack cannot be defended against.
 
 #### Block
 Against Melee and Ranged attacks if using a suitable shield or environment cover.
