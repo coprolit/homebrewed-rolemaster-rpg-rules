@@ -66,7 +66,6 @@ Thrown Attack | 100%
 Melee | 100%
 Dodge/Block/Parry | 100%
 
-Movement is unique as it can be combined with other actions. Movement as its own action costs activity as normal. When moving while taking other actions, ignore the activity cost for the movement, but apply a Pace Penalty to the action.
 | Movement actions | Cost
 |:-|-:|
 Walk / x1 BMR | 25%
