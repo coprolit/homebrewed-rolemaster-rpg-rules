@@ -9,28 +9,24 @@ Types of combat actions: proactive actions, reactive actions, interupt actions.
 ### Proactive Action
 Action a character can attempt on his Turn.
 
-### Reactive Action
-Action a character can attempt at any time during the Combat Round as a response to a Proactive Action (e.g. as an opportunity attack or response to an imminent threat).
-Reactive actions always come with a disadvantage, besides losing control of situation - e.g. penalty to roll, additional MP cost, or compromised state.
-E.g. evading an attack leaves the character prone.
-E.g. counter-attacking cost additional MP (50%?) or OB penalty. OR critical success when parry, allows a counter-attack (at reduced OB?)
-
 ### Interupt Action
 Delayed, conditional Action stated on the characters' turn. 
 Upon triggered, Interupt actions halt an opponent’s Turn at any point.
 If no change in the tactical situation, the opponent continues the Turn after the character’s is completed.
 If unable to achieve the original declaration, the opponent’s MP is wasted.
 
-### Defending
-A character can defend against a foe when attacked by taking cover and/or making a Reactive Action to increase their DB.
+### Reactive Action
+Action a character can attempt at any time during the Combat Round as a response to a Proactive Action (e.g. as an opportunity attack or response to an imminent threat).
+Reactive actions cost an additional `25%` activity.
+
+A character can defend against a foe when attacked by taking cover and/or making a defensive Action to increase their DB:
 `Extremely Hard` maneuver, using appropriate skill, apply 100 minus result to DB.
 
 #### Dodge
 Against Ranged attacks, halve any DB increase.
 Dodging is not possible against area attacks.
 
-`Extremely Hard` maneuver (-30).
-
+`Extremely Hard` maneuver (-30), apply 100 minus result to `DB`.
 Use appropiate Movement skill, e.g. `Running`, `Swimming`, `Climbing` or `Acrobatics` skill.
 
 176+ `Absolute Success`: Defender can immediately move up to 10'.
@@ -39,16 +35,15 @@ Use appropiate Movement skill, e.g. `Running`, `Swimming`, `Climbing` or `Acroba
 Against Melee attacks.
 Halve any DB increase, if defender is parrying unarmed against someone with a weapon.
 
-`Extremely Hard` maneuver (-30).
+`Extremely Hard` maneuver (-30), apply 100 minus result to `DB`.
 Use `Weapon` or `Shield` skill.
 
 176+ `Absolute Success`: Defender can immediately perform a counter-attack against the attacker. That attack cannot be defended against.
 
 #### Block
-Against Melee and Ranged attacks if using a suitable shield or environment cover.
+Against Melee and Ranged attacks if using a suitable object, e.g. shield, or environment cover.
 
-`Hard` Maneuver (-10).
-Use Shield skill.
+`Hard` Maneuver (-10), apply 100 minus result to `DB`. Use Shield skill.
 
 176+ `Absolute Success`: Reduce Critical severity by one of any Criticals scored against defender.
 
