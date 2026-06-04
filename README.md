@@ -31,6 +31,7 @@ Use appropiate Movement skill, e.g. `Running`, `Swimming`, `Climbing` or `Acroba
 176+ `Absolute Success`: Defender can immediately move up to 10'.
 
 **Example:** Bob has 50 in `Running`. He attempts a 75% (-25) Dodge against an incoming melee attack and rolls 50. 50 (roll) + 50 (skill) - 25 (activity) - 30 (EH maneuver) = 45. Bob adds 40 to DB.
+
 **Example:** Bob has 80 in `Acrobatics`. He attempts a 100% Dodge against an incoming melee attack and rolls 75. 75 (roll) + 80 (skill) - 30 (EH maneuver) = 125. Bob adds = 100 to DB.
 
 #### Parry
