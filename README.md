@@ -17,25 +17,27 @@ If unable to achieve the original declaration, the opponent’s MP is wasted.
 
 ### Reactive Action
 Action a character can attempt at any time during the Combat Round as a response to a Proactive Action (e.g. as an opportunity attack or response to an imminent threat).
-Reactive actions cost an additional `25%` activity.
 
 A character can defend against a foe when attacked by taking cover and/or making a defensive Action to increase their DB:
-`Extremely Hard` maneuver, using appropriate skill, apply 100 minus result to DB.
+Attempt a Percentage Maneuver, add result to DB.
 
 #### Dodge
 Against Ranged attacks, halve any DB increase.
 Dodging is not possible against area attacks.
 
-`Extremely Hard` maneuver (-30), apply 100 minus result to `DB`.
+Difficulty: `Extremely Hard` (-30).
 Use appropiate Movement skill, e.g. `Running`, `Swimming`, `Climbing` or `Acrobatics` skill.
 
 176+ `Absolute Success`: Defender can immediately move up to 10'.
+
+**Example:** Bob has 50 in `Running`. He attempts a 75% (-25) Dodge against an incoming melee attack and rolls 50. 50 (roll) + 50 (skill) - 25 (activity) - 30 (EH maneuver) = 45. Bob adds 40 to DB.
+**Example:** Bob has 80 in `Acrobatics`. He attempts a 100% Dodge against an incoming melee attack and rolls 75. 75 (roll) + 80 (skill) - 30 (EH maneuver) = 125. Bob adds = 100 to DB.
 
 #### Parry
 Against Melee attacks.
 Halve any DB increase, if defender is parrying unarmed against someone with a weapon.
 
-`Extremely Hard` maneuver (-30), apply 100 minus result to `DB`.
+Difficulty: `Extremely Hard` (-30).
 Use `Weapon` or `Shield` skill.
 
 176+ `Absolute Success`: Defender can immediately perform a counter-attack against the attacker. That attack cannot be defended against.
@@ -43,7 +45,7 @@ Use `Weapon` or `Shield` skill.
 #### Block
 Against Melee and Ranged attacks if using a suitable object, e.g. shield, or environment cover.
 
-`Hard` Maneuver (-10), apply 100 minus result to `DB`. Use Shield skill.
+Diificulty: `Hard` Maneuver (-10). Use Shield skill.
 
 176+ `Absolute Success`: Reduce Critical severity by one of any Criticals scored against defender.
 
